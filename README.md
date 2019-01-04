@@ -14,4 +14,4 @@ Still, snagging an appropriate domain and setting up mastodon is a bit of work. 
 
 Anyhow, Maddy's still thinking this through, but will update here once she's got a solid game plan. 
 
-Until then, you can get in touch with her at [@makyo@mastodon.social](https://mastodon.social/@makyo) or by email at <makyo@drab-makyo.com>
+Until then, you can get in touch with her at [@makyo@snouts.online](https://snouts.online/@makyo) or by email at <makyo@drab-makyo.com>
